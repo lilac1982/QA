@@ -1,0 +1,45 @@
+// {
+//   "compilerOptions": {
+//     "moduleResolution": "node",
+//     "esModuleInterop": true,
+//     "outDir": "./dist/",
+//     "noImplicitAny": true,
+//     "module": "commonjs",
+//     "target": "ES5",
+//     "jsx": "react",
+//     "lib": ["esnext", "dom"],
+//     "allowJs": true,
+//     "baseUrl": "./",
+//     "paths": {
+//       "@components/*": ["src/components/*"]
+//     }
+//   },
+//   "exclude": ["node_modules", "dist"]
+// }
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "lib": ["dom", "es5", "es6", "es2015", "es2017", "es2015.promise"],
+    "jsx": "react-jsx",
+    "target": "es5",
+    "skipLibCheck": true,
+    "experimentalDecorators": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "allowSyntheticDefaultImports": true,
+    "emitDecoratorMetadata": true,
+    "forceConsistentCasingInFileNames": true,
+    "pretty": true,
+    "sourceMap": true,
+    "declaration": true,
+    "outDir": "./build",
+    "allowJs": true,
+    "noEmit": false,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "importHelpers": true,
+    "moduleResolution": "node"
+  },
+  "exclude": ["node_modules", "build"]
+}
