@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e46b6db4-9020-44b0-82d5-8df9a45e0ba4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/tests/login.test.ts" />
+      <option value="$PROJECT_DIR$/package.json" />
+      <option value="$PROJECT_DIR$/tests/RoundManagementController.test.ts" />
+      <option value="$PROJECT_DIR$/src/controllers/RoundManagementController.ts" />
+      <option value="$PROJECT_DIR$/test_cases/RoundManagementController.txt" />
+      <option value="$PROJECT_DIR$/test_suites/RoundManagementController/closeRound.txt" />
+      <option value="$PROJECT_DIR$/src/tests/RoundManagementController.test.ts" />
+      <option value="$PROJECT_DIR$/test_suites/RoundManagementController/cancelRound.txt" />
+      <option value="$PROJECT_DIR$/test_suites/RoundManagementController/startRound.txt" />
+      <option value="$PROJECT_DIR$/test_suites/RoundManagementController/finishRound.txt" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="2MPR4FwWVh9XNzSdrHwIPBaVev7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="C:\Users\zavid\Documents\Projects\qa_quest\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zavid\Documents\Projects\qa_quest\test_suites\cancelRound" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RoundManagementController.should start round" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/RoundManagementController.test.ts" />
+      <test-names>
+        <test-name value="RoundManagementController" />
+        <test-name value="should start round" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.RoundManagementController.should start round" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
